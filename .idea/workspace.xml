@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff094a99-a47e-4f8c-bf8e-bb854f1dc8e5" name="Changes" comment="Solution for the problem Statement." />
+    <list default="true" id="5ecb1674-e1cb-4701-8644-554073aef5e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversePromotions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/PriceCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/PriceCalculatorServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ReversePromotion/basics/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ReversePromotion/model/Promotion$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ReversePromotion/model/Promotion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ReversePromotion/service/PriceCalculatorService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ReversePromotion/service/PriceCalculatorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ReversePromotion/test/PriceCalculatorServiceTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +28,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -21,168 +35,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Aryanbhardwaj07&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Aryanbhardwaj07/reversePromotions.git&quot;,
-    &quot;accountId&quot;: &quot;bfc22be4-27ad-41ca-8dfe-c16aa8307ff3&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2hoYpzSVUaBkbTN2urT7Qg9DT0N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="38IPF7hnEaF1IqBSUTqyJ1PzyBg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BankManagementSystem.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.if_else1.executor": "Run",
-    "Application.largest.executor": "Run",
-    "Application.ques3.executor": "Run",
-    "Application.sbq1.executor": "Run",
-    "Application.us007.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/reversePromotion",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/dsa/src/Main.java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.Main" />
-      <module name="ReversePromotion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.largest" />
-      <module name="ReversePromotion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sbq1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.sbq1" />
-      <module name="ReversePromotion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="us007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="user_Stories.us007" />
-      <module name="ReversePromotion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="user_Stories.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in ReversePromotion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ReversePromotion" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.All in ReversePromotion" />
-        <item itemvalue="Application.largest" />
-        <item itemvalue="Application.sbq1" />
-        <item itemvalue="Application.us007" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff094a99-a47e-4f8c-bf8e-bb854f1dc8e5" name="Changes" comment="" />
-      <created>1718262086495</created>
+      <changelist id="5ecb1674-e1cb-4701-8644-554073aef5e1" name="Changes" comment="" />
+      <created>1768484009661</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1718262086495</updated>
+      <updated>1768484009661</updated>
     </task>
-    <task id="LOCAL-00001" summary="Solution for the problem Statement">
-      <option name="closed" value="true" />
-      <created>1768481608837</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1768481608837</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Solution for the problem Statement.">
-      <option name="closed" value="true" />
-      <created>1768482325586</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1768482325586</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Solution for the problem Statement.">
-      <option name="closed" value="true" />
-      <created>1768482568797</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1768482568797</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solution for the problem Statement" />
-    <MESSAGE value="Solution for the problem Statement." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution for the problem Statement." />
   </component>
 </project>
